@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anu-Jaiswal/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [0443-string-compression](https://github.com/Anu-Jaiswal/Leetcode-Questions/tree/master/0443-string-compression) |
 ## Stack
 |  |
 | ------- |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Anu-Jaiswal/Leetcode-Questions/tree/master/0066-plus-one) |
+## String
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/Anu-Jaiswal/Leetcode-Questions/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
